@@ -6,6 +6,40 @@
   },
   "entries": [
     {
+      "id": "20260322-204103-6h4s",
+      "title": "Lumpia Humner, Pretty Humner",
+      "commanders": [
+        "Lumpia Humner",
+        "Pretty Humner"
+      ],
+      "dateStart": "2026-03-23T00:41:03.000Z",
+      "dateEnd": "2026-03-23T03:34:20.000Z",
+      "dateLabel": "3/22/2026, 8:41:03 PM - 3/22/2026, 11:34:20 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260322-204103-6h4s",
+      "summary": {
+        "borderlandsPct": 0.9354838709677419,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260321-211825-sehx",
       "title": "Lumpia Humner",
       "commanders": [
