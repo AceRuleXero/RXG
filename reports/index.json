@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260323-212032-awxt",
+      "title": "Casandra Hunmer",
+      "commanders": [
+        "Casandra Hunmer"
+      ],
+      "dateStart": "2026-03-24T01:20:32.000Z",
+      "dateEnd": "2026-03-24T03:58:43.000Z",
+      "dateLabel": "3/23/2026, 9:20:32 PM - 3/23/2026, 11:58:43 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260323-212032-awxt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260322-204103-6h4s",
       "title": "Lumpia Humner, Pretty Humner",
       "commanders": [
