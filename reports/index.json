@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260330-204821-4884",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "dateStart": "2026-03-31T00:48:21.000Z",
+      "dateEnd": "2026-03-31T03:07:50.000Z",
+      "dateLabel": "3/30/2026, 8:48:21 PM - 3/30/2026, 11:07:50 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260330-204821-4884",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260328-213802-yumn",
       "title": "Casandra Hunmer, Lumpia Humner",
       "commanders": [
