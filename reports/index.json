@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260331-212142-drdg",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "dateStart": "2026-04-01T01:21:42.000Z",
+      "dateEnd": "2026-04-01T03:27:01.000Z",
+      "dateLabel": "3/31/2026, 9:21:42 PM - 3/31/2026, 11:27:01 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260331-212142-drdg",
+      "summary": {
+        "borderlandsPct": 0.4411764705882353,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260330-204821-4884",
       "title": "Lumpia Humner",
       "commanders": [
