@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260410-221132-48zx",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "dateStart": "2026-04-11T02:11:32.000Z",
+      "dateEnd": "2026-04-11T03:27:40.000Z",
+      "dateLabel": "4/10/2026, 10:11:32 PM - 4/10/2026, 11:27:40 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260410-221132-48zx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260409-211145-ztr8",
       "title": "Lumpia Humner",
       "commanders": [
