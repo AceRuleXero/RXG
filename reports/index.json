@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260417-221732-ctz0",
+      "title": "Casandra Hunmer",
+      "commanders": [
+        "Casandra Hunmer"
+      ],
+      "dateStart": "2026-04-18T02:17:32.000Z",
+      "dateEnd": "2026-04-18T03:33:51.000Z",
+      "dateLabel": "4/17/2026, 10:17:32 PM - 4/17/2026, 11:33:51 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260417-221732-ctz0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260410-221132-48zx",
       "title": "Virtuous Claps",
       "commanders": [
