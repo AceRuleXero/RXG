@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260420-220648-8krj",
+      "title": "Casandra Hunmer",
+      "commanders": [
+        "Casandra Hunmer"
+      ],
+      "dateStart": "2026-04-21T02:06:48.000Z",
+      "dateEnd": "2026-04-21T02:45:42.000Z",
+      "dateLabel": "4/20/2026, 10:06:48 PM - 4/20/2026, 10:45:42 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260420-220648-8krj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260417-221732-ctz0",
       "title": "Casandra Hunmer",
       "commanders": [
