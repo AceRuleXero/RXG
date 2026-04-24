@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260423-201529-jj3z",
+      "title": "Lira Humner",
+      "commanders": [
+        "Lira Humner"
+      ],
+      "dateStart": "2026-04-24T00:15:29.000Z",
+      "dateEnd": "2026-04-24T01:25:14.000Z",
+      "dateLabel": "4/23/2026, 8:15:29 PM - 4/23/2026, 9:25:14 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260423-201529-jj3z",
+      "summary": {
+        "borderlandsPct": 0.09090909090909091,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260420-220648-8krj",
       "title": "Casandra Hunmer",
       "commanders": [
