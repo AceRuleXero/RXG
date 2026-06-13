@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260612-221049-j2yb",
+      "title": "Clapps Evil Genius",
+      "commanders": [
+        "Clapps Evil Genius"
+      ],
+      "dateStart": "2026-06-13T02:10:49.000Z",
+      "dateEnd": "2026-06-13T02:53:47.000Z",
+      "dateLabel": "6/12/2026, 10:10:49 PM - 6/12/2026, 10:53:47 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260612-221049-j2yb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260524-195606-6hob",
       "title": "Pretty Humner",
       "commanders": [
