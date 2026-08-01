@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260731-222502-ipsz",
+      "title": "Pretty Humner",
+      "commanders": [
+        "Pretty Humner"
+      ],
+      "dateStart": "2026-08-01T02:25:02.000Z",
+      "dateEnd": "2026-08-01T03:21:28.000Z",
+      "dateLabel": "7/31/2026, 10:25:02 PM - 7/31/2026, 11:21:28 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260731-222502-ipsz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260727-202203-7x7s",
       "title": "Pretty Humner",
       "commanders": [
