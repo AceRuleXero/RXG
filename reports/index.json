@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-215839-8k96",
+      "title": "Casandra Hunmer",
+      "commanders": [
+        "Casandra Hunmer"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-08-17T01:58:39.000Z",
+      "dateEnd": "2026-08-17T02:47:43.000Z",
+      "dateLabel": "8/16/2026, 9:58:39 PM - 8/16/2026, 10:47:43 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260816-215839-8k96",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260815-210429-seys",
       "title": "Pretty Humner, Virtuous Claps",
       "commanders": [
