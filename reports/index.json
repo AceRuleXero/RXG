@@ -4,6 +4,37 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260825-230813-5020",
+      "title": "Desolate Styx, Legendarycharmander, Lumpia Humner, Tipsie Sureshot",
+      "commanders": [
+        "Desolate Styx",
+        "Legendarycharmander",
+        "Lumpia Humner",
+        "Tipsie Sureshot"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-08-26T03:08:13.000Z",
+      "dateEnd": "2026-08-26T03:55:42.080Z",
+      "dateLabel": "8/25/2026, 11:08:13 PM - 8/25/2026, 11:55:42 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260825-230813-5020",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260824-220131-kxks",
       "title": "Lumpia Humner",
       "commanders": [
