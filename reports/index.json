@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-211817-wcwj",
+      "title": "Lira Humner",
+      "commanders": [
+        "Lira Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-08-27T01:18:17.000Z",
+      "dateEnd": "2026-08-27T01:50:30.672Z",
+      "dateLabel": "8/26/2026, 9:18:17 PM - 8/26/2026, 9:50:30 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260826-211817-wcwj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260825-230813-5020",
       "title": "Desolate Styx, Legendarycharmander, Lumpia Humner, Tipsie Sureshot",
       "commanders": [
